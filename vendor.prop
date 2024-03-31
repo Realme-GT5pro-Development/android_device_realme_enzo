@@ -1,3 +1,6 @@
+# ALS
+vendor.sensors.als_correction.grabrect=742 72 824 160
+
 # Bluetooth
 bluetooth.device.default_name=Realme GT5 Pro
 
