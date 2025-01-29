@@ -5,8 +5,9 @@ vendor.sensors.als_correction.grabrect=742 72 824 160
 bluetooth.device.default_name=Realme GT5 Pro
 
 # Graphics
-ro.surface_flinger.set_idle_timer_ms=250
-ro.surface_flinger.set_touch_timer_ms=300
+ro.surface_flinger.set_display_power_timer_ms=1000
+ro.surface_flinger.set_idle_timer_ms=80
+ro.surface_flinger.set_touch_timer_ms=200
 
 # USB
 vendor.usb.product_string=Realme GT5 Pro
