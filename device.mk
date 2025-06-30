@@ -43,4 +43,4 @@ $(call soong_config_set,OPLUS_LINEAGE_VIBRATOR_HAL,INCLUDE_DIR,$(LOCAL_PATH)/vib
 $(call inherit-product, device/oneplus/sm8650-common/common.mk)
 
 # Inherit from the proprietary files makefile.
-$(call inherit-product, vendor/oneplus/waffle/waffle-vendor.mk)
+$(call inherit-product, vendor/realme/enzo/enzo-vendor.mk)

@@ -23,8 +23,8 @@ blob_fixups: blob_fixups_user_type = {
 }  # fmt: skip
 
 module = ExtractUtilsModule(
-    'waffle',
-    'oneplus',
+    'enzo',
+    'realme',
     namespace_imports=namespace_imports,
     blob_fixups=blob_fixups,
     add_firmware_proprietary_file=True,
