@@ -32,6 +32,6 @@ module = ExtractUtilsModule(
 
 if __name__ == '__main__':
     utils = ExtractUtils.device_with_common(
-        module, 'sm8650-common', module.vendor
+        module, '../oneplus/sm8650-common', module.vendor
     )
     utils.run()
