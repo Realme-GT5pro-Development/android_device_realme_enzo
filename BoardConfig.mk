@@ -13,7 +13,7 @@ DEVICE_PATH := device/realme/enzo
 TARGET_OTA_ASSERT_DEVICE := RMX3888,enzo,RE5C37
 
 # Display
-TARGET_SCREEN_DENSITY := 640
+TARGET_SCREEN_DENSITY := 500
 
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/oplus/enzo.config
