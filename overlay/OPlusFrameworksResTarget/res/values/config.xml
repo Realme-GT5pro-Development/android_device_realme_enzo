@@ -141,45 +141,45 @@
          array. The brightness values must be non-negative and non-decreasing. This must be
          overridden in platform specific overlays -->
     <array name="config_autoBrightnessDisplayValuesNits">
-        <item>1.6291137</item>
-        <item>10.0</item>
-        <item>18.0</item>
-        <item>23.0</item>
-        <item>29.0</item>
-        <item>35.0</item>
-        <item>48.0</item>
-        <item>55.0</item>
-        <item>63.0</item>
-        <item>68.0</item>
-        <item>75.0</item>
-        <item>82.0</item>
-        <item>90.0</item>
-        <item>97.0</item>
-        <item>102.0</item>
-        <item>106.0</item>
-        <item>112.0</item>
-        <item>118.0</item>
-        <item>122.0</item>
-        <item>130.0</item>
-        <item>132.0</item>
-        <item>134.0</item>
-        <item>136.0</item>
-        <item>139.0</item>
-        <item>163.0</item>
-        <item>186.0</item>
-        <item>210.0</item>
-        <item>220.0</item>
-        <item>235.0</item>
-        <item>280.0</item>
-        <item>310.0</item>
-        <item>362.0</item>
-        <item>420.0</item>
-        <item>500.0</item>
-        <item>550.0</item>
-        <item>600.0</item>
-        <item>700.0</item>
-        <item>800.0</item>
-        <item>900.0</item>
+        <item>1.6291137</item>    <!--      0 - 2     -->
+        <item>12.0</item>  <!--      2 - 4     -->
+        <item>20.0</item>  <!--     4 - 6    -->
+        <item>25.0</item>  <!--     6 - 8    -->
+        <item>30.0</item>  <!--     8 - 10    -->
+        <item>42.0</item>  <!--     10 - 15    -->
+        <item>55.0</item>  <!--     15 - 20    -->
+        <item>65.0</item>  <!--     20 - 25    -->
+        <item>75.0</item>  <!--     25 - 30    -->
+        <item>85.0</item>  <!--     30 - 40    -->
+        <item>95.0</item>  <!--     40 - 50    -->
+        <item>105.0</item>  <!--     50 - 60    -->
+        <item>110.0</item>  <!--     60 - 70    -->
+        <item>118.0</item>  <!--     70 - 80    -->
+        <item>128.0</item>  <!--     80 - 100    -->
+        <item>140.0</item>  <!--     100 - 140    -->
+        <item>150.0</item>  <!--     140 - 180    -->
+        <item>165.0</item>  <!--     180 - 200    -->
+        <item>175.0</item>  <!--     200 - 260    -->
+        <item>190.0</item>  <!--     260 - 300    -->
+        <item>210.0</item>  <!--     300 - 360    -->
+        <item>230.0</item>  <!--     360 - 400    -->
+        <item>250.0</item>  <!--     400 - 500    -->
+        <item>270.0</item>  <!--     500 - 700    -->
+        <item>280.0</item>  <!--     700 - 900    -->
+        <item>290.0</item>  <!--     900 - 1100    -->
+        <item>300.0</item>  <!--     1100 - 1300    -->
+        <item>320.0</item>  <!--     1300 - 1500    -->
+        <item>330.0</item>  <!--     1500 - 2000    -->
+        <item>350.0</item>  <!--     2000 - 2500    -->
+        <item>370.0</item>  <!--     2500 - 3100    -->
+        <item>390.0</item>  <!--     3100 - 4000    -->
+        <item>420.0</item>  <!--     4000 - 5000    -->
+        <item>500.0</item>  <!--     5000 - 7000   -->
+        <item>550.0</item>  <!--     7000 - 9000    -->
+        <item>600.0</item>  <!--     9000 - 10000    -->
+        <item>700.0</item>  <!--     10000 - 20000    -->
+        <item>800.0</item>  <!--     20000 - 30000   -->
+        <item>900.0</item>  <!--     30000    -->
     </array>
 
     <!-- Screen brightness used to dim the screen when the user activity
