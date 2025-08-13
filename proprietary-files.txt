@@ -2,9 +2,9 @@
 ## are from Realme GT5 Pro (RMX3888_15.0.0.841(CN01)).
 
 # ACDB
-odm/etc/acdbdata/Audio_Parameter_Version.txt
 odm/etc/acdbdata/FTM/acdb_cal.acdb
 odm/etc/acdbdata/FTM/workspaceFileXml.qwsp
+odm/etc/acdbdata/Audio_Parameter_Version.txt
 odm/etc/acdbdata/acdb_cal.acdb
 
 # Audio
@@ -75,25 +75,25 @@ odm/etc/lvacfs_params/2mic/audiozoom_8.txt
 odm/etc/lvacfs_params/2mic/audiozoom_9.txt
 
 # Camera
-odm/etc/camera/CameraHWConfiguration.config
-odm/etc/camera/camera_engmode.xml
 odm/etc/camera/cfr_bin/CFR_OPlus_EF017_UW_snapshot.bin
-odm/etc/camera/cfr_bin/CFR_s5k3m5.bin
-odm/etc/camera/cfr_bin/CFR_lyt808.bin
 odm/etc/camera/cfr_bin/CFR_imx890_tele.bin
+odm/etc/camera/cfr_bin/CFR_lyt808.bin
+odm/etc/camera/cfr_bin/CFR_s5k3m5.bin
 odm/etc/camera/config/camera_unit_config
 odm/etc/camera/config/camera_unit_feature_config.protobuf
 odm/etc/camera/config/imx355
 odm/etc/camera/config/imx615
+odm/etc/camera/config/imx890_tele
 odm/etc/camera/config/lyt808
 odm/etc/camera/config/oplus_camera_algo_switch_config
 odm/etc/camera/config/oplus_camera_aps_config
 odm/etc/camera/config/oplus_camera_config
 odm/etc/camera/config/oplus_camera_preview_decision_config.json
 odm/etc/camera/config/oplus_preview_decision_params.json
-odm/etc/camera/config/imx890_tele
 odm/etc/camera/config/quick_visibility_white_list
 odm/etc/camera/config/video_beauty_default_config
+odm/etc/camera/CameraHWConfiguration.config
+odm/etc/camera/camera_engmode.xml
 odm/etc/camera/settings_fdc.txt
 odm/etc/camera/settings_fdc_lite.txt
 
