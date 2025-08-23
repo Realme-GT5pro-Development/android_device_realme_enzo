@@ -23,7 +23,7 @@ PRODUCT_MODEL := RMX3888
 PRODUCT_GMS_CLIENTID_BASE := android-oppo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="RMX3888-user 15 AP3A.240617.008 U.1ee9110_556b6-196ad release-keys" \
+    BuildDesc="qssi_64-user 15 AP3A.240617.008 1755257682114 release-keys" \
     BuildFingerprint=realme/RMX3888/RE5C37:15/AP3A.240617.008/U.1ee9110_556b6-196ad:user/release-keys \
     DeviceName=RE5C37 \
     DeviceProduct=RMX3888 \
